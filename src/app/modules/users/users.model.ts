@@ -10,7 +10,7 @@ const userSchema = new Schema<IUser>(
       required: true,
       unique: true,
     },
-    roll: {
+    role: {
       type: String,
       required: true,
     },
