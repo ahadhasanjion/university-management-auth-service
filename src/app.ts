@@ -1,13 +1,14 @@
-import express, { Application } from "express"
-var cors = require('cors')
-var app:Application = express()
-const port = 3000
-
+import express, { Application, Request, Response } from 'express'
+import cors from 'cors'
+const app: Application = express()
 
 app.use(cors())
 
-app.get('/products/:id', function (req, res, next) {
-  res.json({msg: 'This is CORS-enabled for all origins!'})
+app.use(express.json())
+app.use(express.urlencoded({ extended: true }))
+
+app.get('/', function (req: Request, res: Response) {
+  res.send('Working Successfully')
 })
 
-export default app;
+export default app
