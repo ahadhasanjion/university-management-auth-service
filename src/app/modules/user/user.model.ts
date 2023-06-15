@@ -1,7 +1,5 @@
 import { Model, Schema, model } from 'mongoose'
-import { IUser } from './users.interfase'
-
-type UserModel = Model<IUser, object>
+import { IUser, UserModel } from './user.interfase'
 
 const userSchema = new Schema<IUser>(
   {
@@ -18,9 +16,24 @@ const userSchema = new Schema<IUser>(
       type: String,
       required: true,
     },
+    student:{
+      type: Schema.Types.ObjectId,
+      ref:'Student'
+    },
+    faculty:{
+      type: Schema.Types.ObjectId,
+      ref:'Faculty'
+    },
+    Admin:{
+      type: Schema.Types.ObjectId,
+      ref:'Admin'
+    },
   },
   {
     timestamps: true,
+    toJSON: {
+      virtuals: true,
+    },
   }
 )
 
