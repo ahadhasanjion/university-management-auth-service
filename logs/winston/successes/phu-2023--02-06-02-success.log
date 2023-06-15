@@ -1,0 +1,130 @@
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-01T20:29:22.293Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-01T20:29:22.305Z'
+}
+Fri Jun 02 2023 2:30:26 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:30:26 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:34:20 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:34:20 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:36:4 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:36:4 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:36:13 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:36:13 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:36:31 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:36:31 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:36:47 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:36:47 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:37:7 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:37:7 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:37:22 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:37:22 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:37:33 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:37:33 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:37:47 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:37:48 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:38:0 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:38:0 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:38:9 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:38:9 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:38:20 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:38:20 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:38:31 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:38:31 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:38:37 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:38:37 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:38:45 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:38:45 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:38:58 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:38:58 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:39:22 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:39:22 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:39:47 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:39:47 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:40:2 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:40:2 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:40:10 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:40:10 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:40:16 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:40:16 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:40:21 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:40:21 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:40:26 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:40:26 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:40:31 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:40:31 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:40:57 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:40:57 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:41:23 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:41:23 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:42:2 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:42:2 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:42:25 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:42:25 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:42:47 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:42:47 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:42:55 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:42:55 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:43:2 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:43:2 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:43:41 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:43:41 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:43:50 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:43:50 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:44:3 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:44:3 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:44:11 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:44:11 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:44:39 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:44:39 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:45:14 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:45:14 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:45:20 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:45:20 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:45:31 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:45:31 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:45:40 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:45:40 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:45:45 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:45:45 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:45:55 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:45:56 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:46:18 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:46:18 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:48:39 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:48:39 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:49:51 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:49:51 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:50:4 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:50:4 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:50:9 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:50:9 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:51:32 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:51:32 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:54:41 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:54:41 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:54:49 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:54:49 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:55:3 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:55:3 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:57:52 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:57:52 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:57:58 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:57:58 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:58:9 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:58:9 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:58:15 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:58:15 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:58:37 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:58:37 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:58:48 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:58:48 } [right meow!] info: Application listening on port 5000
+Fri Jun 02 2023 2:59:23 } [right meow!] info: Database connected successfully
+Fri Jun 02 2023 2:59:23 } [right meow!] info: Application listening on port 5000
